@@ -9,5 +9,10 @@
  4) Unutar XAMPP-a pokrenuti module "Apache" i "MySql"
  5) U browser-u na poziciji adresne trake napisati Vaš direktorij spremanja. (http://localhost/pro)
  6) Uživajte u pregledu!
+
+ Testni podaci za login formu:
+ Admin - Admin, foi
+ Administrator - voditelj, 123456
+ Korisnik - qtarantino, 123456
  
 
