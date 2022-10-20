@@ -11,8 +11,8 @@
  6) Uživajte u pregledu!
 
  Testni podaci za login formu:
- Admin - Admin, foi
- Administrator - voditelj, 123456
- Korisnik - qtarantino, 123456
+ 1) Admin - Admin, foi
+ 2) Administrator - voditelj, 123456
+ 3) Korisnik - qtarantino, 123456
  
 
